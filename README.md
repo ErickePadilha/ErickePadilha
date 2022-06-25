@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+
 
 
 Olá me chamo Ericke Padilha, tenho 19 anos e atualmente estou estudando programação em busca de realizar meu sonho de trabalhar como desenvolvedor.
